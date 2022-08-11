@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Alaeddine-bouabid
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python & Relational Database
-- 💞️ I’m looking to collaborate on My own Project
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Alaeddine-bouabid, i'm Full Stack web developper & Intégrator Systems
+- 👀 I’m interested in Data Analysis & IA
+- 🌱 I’m currently learning Python, R langage & Relational Database
+- 💞️ I am looking to realize my first projects and launch some Startups
 
 <!---
 Alaeddine-bouabid/Alaeddine-bouabid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
